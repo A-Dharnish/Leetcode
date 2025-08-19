@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/A-Dharnish/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/A-Dharnish/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -36,14 +37,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/A-Dharnish/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/A-Dharnish/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/A-Dharnish/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/A-Dharnish/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/A-Dharnish/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/A-Dharnish/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/A-Dharnish/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/A-Dharnish/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/A-Dharnish/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/A-Dharnish/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/A-Dharnish/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
